@@ -1,0 +1,5 @@
+﻿  21F-9132_21F-9214_21F-9227.cpp
+C:\Users\Dell\source\repos\BCS A_21F-9132_21F-9214_21F-9227\BCS A_21F-9132_21F-9214_21F-9227\21F-9132_21F-9214_21F-9227.cpp(593,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\source\repos\BCS A_21F-9132_21F-9214_21F-9227\BCS A_21F-9132_21F-9214_21F-9227\21F-9132_21F-9214_21F-9227.cpp(566): warning C4715: 'hauffman::search_key1': not all control paths return a value
+C:\Users\Dell\source\repos\BCS A_21F-9132_21F-9214_21F-9227\BCS A_21F-9132_21F-9214_21F-9227\21F-9132_21F-9214_21F-9227.cpp(490): warning C4715: 'hauffman::search_key': not all control paths return a value
+  BCS A_21F-9132_21F-9214_21F-9227.vcxproj -> C:\Users\Dell\source\repos\BCS A_21F-9132_21F-9214_21F-9227\x64\Debug\BCS A_21F-9132_21F-9214_21F-9227.exe
